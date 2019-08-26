@@ -1,0 +1,9 @@
+<extension version="1" name="RunAfterSolve2">
+   <script src="Script_A.py" />
+   <interface context="Mechanical">
+      <images>images</images>
+         <Callbacks>
+            <OnPostFinished>PostFinished</OnPostFinished>
+         </Callbacks>
+   </interface>
+</extension>

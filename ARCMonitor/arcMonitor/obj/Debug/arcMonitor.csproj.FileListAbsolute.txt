@@ -1,0 +1,10 @@
+C:\Users\jdehart\Source\Repos\arcMonitor\arcMonitor\bin\Debug\arcMonitor.exe.config
+C:\Users\jdehart\Source\Repos\arcMonitor\arcMonitor\bin\Debug\arcMonitor.exe
+C:\Users\jdehart\Source\Repos\arcMonitor\arcMonitor\bin\Debug\arcMonitor.pdb
+C:\Users\jdehart\Source\Repos\arcMonitor\arcMonitor\obj\Debug\arcMonitor.csprojAssemblyReference.cache
+C:\Users\jdehart\Source\Repos\arcMonitor\arcMonitor\obj\Debug\arcMonitor.Properties.Resources.resources
+C:\Users\jdehart\Source\Repos\arcMonitor\arcMonitor\obj\Debug\arcMonitor.csproj.GenerateResource.cache
+C:\Users\jdehart\Source\Repos\arcMonitor\arcMonitor\obj\Debug\arcMonitor.csproj.CoreCompileInputs.cache
+C:\Users\jdehart\Source\Repos\arcMonitor\arcMonitor\obj\Debug\arcMonitor.exe
+C:\Users\jdehart\Source\Repos\arcMonitor\arcMonitor\obj\Debug\arcMonitor.pdb
+C:\Users\jdehart\Source\Repos\arcMonitor\arcMonitor\obj\Debug\arcMonitor.Form1.resources

@@ -1,0 +1,7 @@
+﻿# encoding: utf-8
+# Release 19.2
+SetScriptVersion(Version="19.2.120")
+Extensions.LoadExtension(
+    Id="168295f2-667b-44c8-a39f-e18e95a18653",
+    Version="2.0",
+    Format="Binary")

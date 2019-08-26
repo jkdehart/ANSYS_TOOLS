@@ -1,0 +1,12 @@
+﻿# 
+# This file contains the parameter values of the Design Points successfully updated by ANSYS Workbench.
+# Project name: ExcelParameterScripting
+# Creation date: 10/01/2018 11:16:22
+# 
+# 10/01/2018 11:16:22
+# The parameters defined in the project are:
+# ,P1 - Length,P2 - Force X Component [N],P3 - Total Deformation Maximum [m]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2,P3
+DP 0,20,7,4.1680699210743303E-07
